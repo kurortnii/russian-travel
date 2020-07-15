@@ -1,0 +1,31 @@
+@import url("../header/__logo/header__logo.css");
+@import url("../header/__links/header__links.css");
+@import url("../header/__link/header__link.css");
+
+
+.header {
+  max-width: 1184px;
+  display: flex;
+  justify-content: space-between;
+  margin: auto;
+  padding-top: 28px;
+}
+
+@media screen and (max-width: 1024px) {
+  .header {
+    max-width: 928px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .header {
+    max-width: 720px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .header {
+    max-width: 288px;
+    padding-top: 16px;
+  }
+}

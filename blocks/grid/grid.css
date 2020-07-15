@@ -1,0 +1,15 @@
+.grid {
+  padding-bottom: 92px;
+}
+
+@media screen and (max-width: 768px) {
+  .grid {
+    padding-bottom: 88px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .grid {
+    padding-bottom: 64px;
+  }
+}
