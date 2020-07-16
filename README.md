@@ -8,3 +8,5 @@
 
 * Построение сетки элементов c помощью Grid Layout
 * Резиновая и адаптивная верстка
+
+Ссылка на проект: https://kurortnii.github.io/russian-travel/
