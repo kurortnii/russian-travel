@@ -4,6 +4,12 @@
   margin: auto;
 }
 
+@media screen and (max-width: 1024px) {
+  .description {
+    max-width: 928px;
+  }
+}
+
 @media screen and (max-width: 768px) {
   .description {
     padding-bottom: 88px;
